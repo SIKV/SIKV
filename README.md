@@ -1,5 +1,5 @@
-## Hire me
+I build high-quality mobile apps with **Android**, **Kotlin Multiplatform**, and **Flutter**.
 
-I am employed, but open to interesting opportunities — you can reach me at sikv.dev@gmail.com
+Currently building and experimenting with AI agents and AI-powered apps.
 
-I specialize in **Android, Kotlin Multiplatform (KMP), and Flutter**.  
+[sikv.dev@gmail.com](mailto:sikv.dev@gmail.com)
